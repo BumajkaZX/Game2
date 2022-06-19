@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: b3d4e4104709dcf42a75113af6745abc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2095098845080970834
+    second: FireRock_0
+  - first:
+      213: 4939694200100331796
+    second: FireRock_1
+  - first:
+      213: -6333362176919851772
+    second: FireRock_2
+  - first:
+      213: 607945930032496858
+    second: FireRock_3
+  - first:
+      213: -736757922403341337
+    second: FireRock_4
+  - first:
+      213: 6098675727601529802
+    second: FireRock_5
+  - first:
+      213: 8182800907377804982
+    second: FireRock_6
+  - first:
+      213: -8953400519131770633
+    second: FireRock_7
+  - first:
+      213: -3089635084357031686
+    second: FireRock_8
+  - first:
+      213: -7778767140467802032
+    second: FireRock_9
+  - first:
+      213: 6879702751139356203
+    second: FireRock_10
+  - first:
+      213: -5487298481688684396
+    second: FireRock_11
+  - first:
+      213: 6791022006911592778
+    second: FireRock_12
+  - first:
+      213: -4449924356152472804
+    second: FireRock_13
+  - first:
+      213: 7327308809687523218
+    second: FireRock_14
+  - first:
+      213: 4395882498780040625
+    second: FireRock_15
+  - first:
+      213: -7219137219475407502
+    second: FireRock_16
+  - first:
+      213: -3953274958571006833
+    second: FireRock_17
+  - first:
+      213: -6943350917491732940
+    second: FireRock_18
+  - first:
+      213: 3069853286552482637
+    second: FireRock_19
+  - first:
+      213: 2796165663852227785
+    second: FireRock_20
+  - first:
+      213: -5705707185668443057
+    second: FireRock_21
+  - first:
+      213: -5844165429553110017
+    second: FireRock_22
+  - first:
+      213: 1109833566424366295
+    second: FireRock_23
+  - first:
+      213: -2967679980557409521
+    second: FireRock_24
+  - first:
+      213: 8295707118175178366
+    second: FireRock_25
+  - first:
+      213: -8918413408398802785
+    second: FireRock_26
+  - first:
+      213: -6184656856641090853
+    second: FireRock_27
+  - first:
+      213: 2829598699397431102
+    second: FireRock_28
+  - first:
+      213: -4205094251935501729
+    second: FireRock_29
+  - first:
+      213: 8842838434779567159
+    second: FireRock_30
+  - first:
+      213: -4718294937198626884
+    second: FireRock_31
+  - first:
+      213: 9203428587153345231
+    second: FireRock_32
+  - first:
+      213: -4780284885611068794
+    second: FireRock_33
+  - first:
+      213: 98596935756594362
+    second: FireRock_34
+  - first:
+      213: -2869905468400473994
+    second: FireRock_35
+  - first:
+      213: -5012892411228231092
+    second: FireRock_36
+  - first:
+      213: -3779540822392071543
+    second: FireRock_37
+  - first:
+      213: -606469658583240706
+    second: FireRock_38
+  - first:
+      213: 9162212515972109181
+    second: FireRock_39
+  - first:
+      213: -7712737224562291889
+    second: FireRock_40
+  - first:
+      213: 8240987619708577148
+    second: FireRock_41
+  - first:
+      213: -1177535547755499836
+    second: FireRock_42
+  - first:
+      213: 2825517187918284838
+    second: FireRock_43
+  - first:
+      213: -821677115072693835
+    second: FireRock_44
+  - first:
+      213: 894877398839302234
+    second: FireRock_45
+  - first:
+      213: -6455391336763401020
+    second: FireRock_46
+  - first:
+      213: 1815665348694654538
+    second: FireRock_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireRock_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e16e9c49431d10800000000000000
+      internalID: 2095098845080970834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRock_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 127
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a90014b15d8440800000000000000
+      internalID: 4939694200100331796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRock_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2ccad7a06b18a0800000000000000
+      internalID: -6333362176919851772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dacc47edb9f664a4a994ea44d7212b02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
